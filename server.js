@@ -18,10 +18,6 @@ nodemon({
   process.exit();
 });
 
-govind
-
-
-just  
 
 
 
