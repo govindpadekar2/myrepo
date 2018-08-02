@@ -1,3 +1,4 @@
+![wctx](https://zupimages.net/up/18/28/wctx.png)
 # MERN-boilerplate
 
 This is a boilerplate project using the following technologies:
